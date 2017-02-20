@@ -42,10 +42,10 @@
 
 ___
 ## 主要功能点
-1. 后台需要一套全新账号系统, 有[注册页面和登录页面](http://github.panli.com/6City/PM-Wiki/src/master/%E8%BF%94%E5%88%A9%E7%B3%BB%E7%BB%9F%20B%20%E7%AB%AF%E5%90%8E%E5%8F%B0.md#-4);
-2. [一个设置和修改接收返利 银行账户/银行卡页面](http://github.panli.com/6City/PM-Wiki/src/master/%E8%BF%94%E5%88%A9%E7%B3%BB%E7%BB%9F%20B%20%E7%AB%AF%E5%90%8E%E5%8F%B0.md#-15);
-3. [一个能申请提现和查看提现记录的页面](http://github.panli.com/6City/PM-Wiki/src/master/%E8%BF%94%E5%88%A9%E7%B3%BB%E7%BB%9F%20B%20%E7%AB%AF%E5%90%8E%E5%8F%B0.md#-20);
-4. [一个获取的开发者文档页面](http://github.panli.com/6City/PM-Wiki/src/master/%E8%BF%94%E5%88%A9%E7%B3%BB%E7%BB%9F%20B%20%E7%AB%AF%E5%90%8E%E5%8F%B0.md#-26).
+1. 后台需要一套全新账号系统, 有[注册页面和登录页面](https://github.com/iamWangJunjie/6-City-Rebates/blob/master/返利系统%20B%20端后台.md#注册页面和登录页面);
+2. [一个设置和修改接收返利 银行账户/银行卡页面](https://github.com/iamWangJunjie/6-City-Rebates/blob/master/返利系统%20B%20端后台.md#账号管理);
+3. [一个能申请提现和查看提现记录的页面](https://github.com/iamWangJunjie/6-City-Rebates/blob/master/返利系统%20B%20端后台.md#返利提现);
+4. [一个获取的开发者文档页面](https://github.com/iamWangJunjie/6-City-Rebates/blob/master/返利系统%20B%20端后台.md#开发者文档).
 
 ___
 ## 在线原型
@@ -73,6 +73,6 @@ ___
 ## 文档改动
 |ID|时间|改动|参与讨论|
 |:--------|:--------|:-----|:-----:|
-|1|2016.12.27 AM 9:40|[返利 - 返利提现 - 返利产生 / 提现概览 (按月汇总一年)](http://github.panli.com/6City/PM-Wiki/src/master/%E8%BF%94%E5%88%A9%E7%B3%BB%E7%BB%9F%20B%20%E7%AB%AF%E5%90%8E%E5%8F%B0.md#---) 中, **申请的提现**是当月的是实时记录每一笔然后汇总, 每个月底汇总一次算到上个月|Lewis|
-|2|2016.12.30 AM 10:50|[返利 - 返利提现 - 公告](http://github.panli.com/6City/PM-Wiki/src/master/%E8%BF%94%E5%88%A9%E7%B3%BB%E7%BB%9F%20B%20%E7%AB%AF%E5%90%8E%E5%8F%B0.md#-22) 中, 补充了当前可申请的返利提示|Lewis|
+|1|2016.12.27 AM 9:40|[返利 - 返利提现 - 返利产生 / 提现概览 (按月汇总一年)](https://github.com/iamWangJunjie/6-City-Rebates/blob/master/返利系统%20B%20端后台.md#返利产生--提现概览-按月汇总一年) 中, **申请的提现**是当月的是实时记录每一笔然后汇总, 每个月底汇总一次算到上个月|Lewis|
+|2|2016.12.30 AM 10:50|[返利 - 返利提现 - 公告](https://github.com/iamWangJunjie/6-City-Rebates/blob/master/返利系统%20B%20端后台.md#公告部分) 中, 补充了当前可申请的返利提示|Lewis|
 |3|2017.1.14 AM 11:20|补充个超链接字体样式的需求: 报表中的商品名称样式为蓝色字体带下划线, 「各网站返利点」的链接增加超链接功能并且样式为蓝色字体带下划线|-|
